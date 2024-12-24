@@ -1,0 +1,9 @@
+{
+    "name": "com.shelfswitcher.dock.right",
+    "description": "Run the batch to run the autohotkey to run the chrome command to change the dock position to right",
+    "path": "C:\\Users\\jayad\\Desktop\\Work Stuff\\shelf-switcher\\native-app-runners\\dr.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://oblcdbmfgbpafphafecjmlkdhpejhblk/"
+    ]
+}

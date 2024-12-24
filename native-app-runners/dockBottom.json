@@ -1,0 +1,9 @@
+{
+    "name": "com.shelfswitcher.dock.bottom",
+    "description": "Run the batch to run the autohotkey to run the chrome command to change the dock position to bottom",
+    "path": "C:\\Users\\jayad\\Desktop\\Work Stuff\\shelf-switcher\\native-app-runners\\db.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://oblcdbmfgbpafphafecjmlkdhpejhblk/"
+    ]
+}
